@@ -1,5 +1,7 @@
 # The Dice Game
 
+[Click To Play](https://github.com/Siddhant2155/The-Dice-Game)
+
 ### Game Rule
 
 - The game has 2 players, playing in rounds.
